@@ -1,4 +1,4 @@
-package main.java.graphasEx.weightedDirectedGraph;
+package main.java.graphasEx.AdjacencyMatrix.directedGraph.weighted;
 
 public class Ex1 {
 
