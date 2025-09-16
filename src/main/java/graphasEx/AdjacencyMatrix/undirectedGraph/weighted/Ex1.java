@@ -1,4 +1,4 @@
-package main.java.graphasEx.weightedUndirectedGraph;
+package weighted;
 
 public class Ex1 {
 

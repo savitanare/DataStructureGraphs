@@ -1,4 +1,4 @@
-package main.java.basicsGraphsEx.UndirectedGraph;
+package unweighted;
 
 public class AdjacencyMatrixEx {
 
